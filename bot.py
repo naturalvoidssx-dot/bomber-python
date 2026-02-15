@@ -1,7 +1,7 @@
 # yo
 # thx for using this
 # tg_bomber.py
-token = '8369236704:AAGkjZC1zAA-m28Nsu78zllvMZASEbwC3JQ'
+token = 'YOUR TOKEN OF BOT HERE'
 bot_name = "Test Bomber"
 
 import asyncio
